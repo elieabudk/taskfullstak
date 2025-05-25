@@ -1,0 +1,69 @@
+2025-05-22 22:39:16 [info]: Servidor iniciado
+2025-05-22 22:39:16 [warn]: Este es un warning
+2025-05-22 22:39:16 [error]: Error: Algo salió mal
+    at file:///C:/Users/eliep/Desktop/prueba_tecnica/Nueva%20carpeta%20(2)/backend/src/index.js:20:9
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:547:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+2025-05-22 22:39:23 [info]: Servidor iniciado
+2025-05-22 22:39:23 [warn]: Este es un warning
+2025-05-22 22:39:23 [error]: Error: Algo salió mal
+    at file:///C:/Users/eliep/Desktop/prueba_tecnica/Nueva%20carpeta%20(2)/backend/src/index.js:20:9
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:547:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+2025-05-22 22:41:59 [info]: Servidor iniciado
+2025-05-22 22:41:59 [warn]: Este es un warning
+2025-05-22 22:41:59 [error]: Error: Algo salió mal
+    at file:///C:/Users/eliep/Desktop/prueba_tecnica/Nueva%20carpeta%20(2)/backend/src/index.js:20:9
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:547:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+2025-05-22 22:43:24 [info]: Servidor iniciado
+2025-05-22 22:43:24 [warn]: Este es un warning
+2025-05-22 22:43:24 [error]: Error: Algo salió mal
+    at file:///C:/Users/eliep/Desktop/prueba_tecnica/Nueva%20carpeta%20(2)/backend/src/index.js:20:9
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:547:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+2025-05-22 22:43:51 [info]: Servidor iniciado
+2025-05-22 22:43:51 [warn]: Este es un warning
+2025-05-22 22:43:51 [error]: Error: Algo salió mal
+    at file:///C:/Users/eliep/Desktop/prueba_tecnica/Nueva%20carpeta%20(2)/backend/src/index.js:20:9
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:547:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+2025-05-22 22:43:55 [error]: TokenExpiredError: jwt expired
+    at C:\Users\eliep\Desktop\prueba_tecnica\Nueva carpeta (2)\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\eliep\Desktop\prueba_tecnica\Nueva carpeta (2)\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\eliep\Desktop\prueba_tecnica\Nueva carpeta (2)\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at verificarToken (file:///C:/Users/eliep/Desktop/prueba_tecnica/Nueva%20carpeta%20(2)/backend/middleware/middleware.js:21:29)
+    at Layer.handle [as handle_request] (C:\Users\eliep\Desktop\prueba_tecnica\Nueva carpeta (2)\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\eliep\Desktop\prueba_tecnica\Nueva carpeta (2)\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\eliep\Desktop\prueba_tecnica\Nueva carpeta (2)\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\eliep\Desktop\prueba_tecnica\Nueva carpeta (2)\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\eliep\Desktop\prueba_tecnica\Nueva carpeta (2)\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\eliep\Desktop\prueba_tecnica\Nueva carpeta (2)\backend\node_modules\express\lib\router\index.js:346:12)
+2025-05-25 16:45:50 [info]: Servidor iniciado
+2025-05-25 16:45:50 [warn]: Este es un warning
+2025-05-25 16:45:50 [error]: Error: Algo salió mal
+    at file:///C:/Users/eliep/Desktop/prueba_tecnica/Nueva%20carpeta%20(2)/backend/src/index.js:20:9
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:547:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+2025-05-25 16:45:59 [error]: TokenExpiredError: jwt expired
+    at C:\Users\eliep\Desktop\prueba_tecnica\Nueva carpeta (2)\backend\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\eliep\Desktop\prueba_tecnica\Nueva carpeta (2)\backend\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\eliep\Desktop\prueba_tecnica\Nueva carpeta (2)\backend\node_modules\jsonwebtoken\verify.js:101:10)
+    at verificarToken (file:///C:/Users/eliep/Desktop/prueba_tecnica/Nueva%20carpeta%20(2)/backend/middleware/middleware.js:21:29)
+    at Layer.handle [as handle_request] (C:\Users\eliep\Desktop\prueba_tecnica\Nueva carpeta (2)\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\eliep\Desktop\prueba_tecnica\Nueva carpeta (2)\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\eliep\Desktop\prueba_tecnica\Nueva carpeta (2)\backend\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\eliep\Desktop\prueba_tecnica\Nueva carpeta (2)\backend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\eliep\Desktop\prueba_tecnica\Nueva carpeta (2)\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\eliep\Desktop\prueba_tecnica\Nueva carpeta (2)\backend\node_modules\express\lib\router\index.js:346:12)
+2025-05-25 16:46:37 [info]: Token verificado exitosamente
+2025-05-25 16:46:58 [info]: Token verificado exitosamente
+2025-05-25 16:47:04 [info]: Token verificado exitosamente
+2025-05-25 16:47:53 [info]: Token verificado exitosamente
+2025-05-25 16:47:53 [info]: Token verificado exitosamente
